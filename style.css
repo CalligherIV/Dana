@@ -1,0 +1,20 @@
+img {
+    width: 400px;
+}
+
+p.imagen {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+* {
+    background-color: rgb(148, 113, 0);
+}
+
+p {
+    font-size: larger;
+    color: blue;
+}
